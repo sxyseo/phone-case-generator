@@ -47,9 +47,18 @@ export function Generator() {
               <SelectValue placeholder="选择星座" />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="gemini">双子座</SelectItem>
               <SelectItem value="aquarius">水瓶座</SelectItem>
+              <SelectItem value="pisces">双鱼座</SelectItem>
+              <SelectItem value="aries">白羊座</SelectItem>
               <SelectItem value="taurus">金牛座</SelectItem>
+              <SelectItem value="gemini">双子座</SelectItem>
+              <SelectItem value="cancer">巨蟹座</SelectItem>
+              <SelectItem value="leo">狮子座</SelectItem>
+              <SelectItem value="virgo">处女座</SelectItem>
+              <SelectItem value="libra">天秤座</SelectItem>
+              <SelectItem value="scorpio">天蝎座</SelectItem>
+              <SelectItem value="sagittarius">射手座</SelectItem>
+              <SelectItem value="capricorn">摩羯座</SelectItem>
             </SelectContent>
           </Select>
         </div>
